@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4fe17795-3bdc-4aaf-abbc-b1ccae25c55e)# Sysopctl: Linux System Operations Command
+# Sysopctl: Linux System Operations Command
 
 `sysopctl` is a custom Linux command-line tool designed to help system administrators manage system services, monitor processes, check system health, analyze logs, and perform backups with ease.
 
